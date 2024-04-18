@@ -1,0 +1,5 @@
+onset_time,stim_type,stim_name,trial_length,stim_size,RGB,corrAns
+0,1,targ,0.5,3.6,"[0.7298, 0.5623, 0.6473]",1
+0.5,3,nontarg,0.5,1.6,"[0.7298, 0.5623, 0.6473]",None
+1,2,bright,4,1.6,"[0.78, 0.61, 0.7]",None
+5,3,nontarg,0.5,1.6,"[0.7298, 0.5623, 0.6473]",None

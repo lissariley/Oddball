@@ -1,0 +1,5 @@
+identifier,trialImage,condition,corrAns,imageDur
+1,images/img_1.jpg,color,m,4000
+2,images/img_2.jpg,color,z,3000
+3,images/img_3.jpg,blackAndWhite,m,5000
+4,images/img_4.jpg,blackAndWhite,z,2000
